@@ -10,12 +10,12 @@ class List extends Component {
    }
    renderTableData() {
     return this.state.apps.map((app, index) => {
-       const {name, description, technology, repo, deployed} = app //destructuring
+       const {name, desc, tech, repo, deployed} = app //destructuring
        return (
           <tr key={name}>
              <td>{name}</td>
-             <td>{description}</td>
-             <td>{technology}</td>
+             <td>{desc}</td>
+             <td>{tech}</td>
              <td>{repo}</td>
              <td>{deployed}</td>
           </tr>
