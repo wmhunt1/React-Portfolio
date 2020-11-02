@@ -1,9 +1,14 @@
 import React from "react";
+import './style.css';
+
 
 function Contact() {
     return (
         <div>
-            <h1>Contact</h1>
+            <header>
+                <h1 class = "heading">Contact</h1>
+            </header>
+
             <section class="card">
                 <article class="container">
                     <h4>Warren Matthew "Matt Hunt"</h4>

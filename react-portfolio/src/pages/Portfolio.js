@@ -1,11 +1,15 @@
 import React from "react";
 import List from "../components/List";
+import './style.css';
 
-function Portfolio(){
-    return(
+function Portfolio() {
+    return (
         <div>
-            <h1>Portfolio</h1>
-            <List/>
+            <header>
+                <h1 class = "heading">Portfolio</h1>
+            </header>
+
+            <List />
         </div>
     )
 }
