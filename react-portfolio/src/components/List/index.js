@@ -34,7 +34,7 @@ class List extends Component {
     return (
        <div>
           {/* <h1 id='title'>React Dynamic Table</h1> */}
-          <table id='app'>
+          <table id='apps'>
              <tbody>
                 <tr>{this.renderTableHeader()}</tr>
                 {this.renderTableData()}

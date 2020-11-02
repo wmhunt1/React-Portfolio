@@ -3,6 +3,6 @@
     {"name": "Battleground States", "desc": "The second group project I participated in where we set out to make a fighting game using routing and databases", "tech": "SQL, routes, sequelize", "repo": "https://github.com/tbourgoin630/Geo-Battle", "deployed": "https://lit-beyond-05882.herokuapp.com/"},
     {"name": "Password Generator", "desc": "A password generator where the user can choose criteria to have a randomly generated password", "tech": "HTML, CSS, JS", "repo": "https://github.com/wmhunt1/Password-Generator", "deployed": "https://wmhunt1.github.io/Password-Generator/"},
     {"name": "Weather Or Not", "desc": "A weather app made using JQuery and the Open Weather API", "tech": "Jquery", "repo": "https://github.com/wmhunt1/Weather-Or-Not", "deployed": "https://wmhunt1.github.io/Weather-Or-Not/"},
-    {"name": "Take Note", "desc": "", "tech": "Heroku", "repo": "https://github.com/wmhunt1/Take-Note", "deployed": "https://notetakingappwarrenhunt.herokuapp.com/"},
+    {"name": "Take Note", "desc": "An note taking app made using routes and a database to store notes.", "tech": "Heroku", "repo": "https://github.com/wmhunt1/Take-Note", "deployed": "https://notetakingappwarrenhunt.herokuapp.com/"},
     {"name": "Employee Summary", "desc": "An employee summary made using node and Inquirer with  classes for the different jobs. ", "tech": "Heroku, Node, Inquirer", "repo": "https://github.com/wmhunt1/Employee-Summary", "deployed": "https://drive.google.com/file/d/16WSlEdR7k7F-J6y_zHGnJSsvSSkMqREd/view"}
 ]
