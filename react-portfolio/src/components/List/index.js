@@ -16,8 +16,8 @@ class List extends Component {
              <td>{name}</td>
              <td>{desc}</td>
              <td>{tech}</td>
-             <td>{repo}</td>
-             <td>{deployed}</td>
+             <td><a href={repo}>Github Link</a></td>
+             <td><a href={deployed}>Deployed Link</a></td>
           </tr>
        )
     })
