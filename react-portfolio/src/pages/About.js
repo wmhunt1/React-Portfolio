@@ -4,6 +4,7 @@ import './style.css';
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Profile from "../components/Profile";
 
 function About() {
     return (
@@ -22,7 +23,7 @@ function About() {
                     <Row />
                     <Row class>
                         <Col size="md-3">
-                            <img src="../T014DSLRTAR-U014LHDDZB7-073cbb3ff7b9-512.jpg" alt="pic" class="img-thumbnail"></img>
+                            <Profile/>
                         </Col>
                     {/* </Row>
                     <Row> */}
