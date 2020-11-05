@@ -1,8 +1,10 @@
 import React from "react";
+import Picture from './picture.png';
 
 function Profile() {
   return (
-    <img src="./picture.jpg" alt="pic" class="img-thumbnail"></img>
+    // <img src={require('./picture.png')} class="img-thumbnail" alt="pic"/>
+    <img src={Picture} alt="pic" class="img-thumbnail"></img>
   )
 }
 
