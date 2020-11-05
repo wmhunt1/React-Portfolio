@@ -27,7 +27,7 @@ function About() {
                         </Col>
                     {/* </Row>
                     <Row> */}
-                        <Col size="md-4">
+                        <Col size="md-6">
                             <h5 class="card-title">Fun facts</h5>
                             <ul class="card-text">
                                 <li>Is an Eagle Scout</li>
