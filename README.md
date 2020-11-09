@@ -1,6 +1,6 @@
 # React-Portfolio
 ## Description
-A portfolio of my work using react.
+A portfolio of my work made using react.
 
 Links and projects from the Portfolio
 1. Quar'N'Titles
