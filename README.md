@@ -1,6 +1,8 @@
 # React Portfolio
 ## Description
 A portfolio of my work made using react.
+Repo: https://github.com/wmhunt1/React-Portfolio
+Deployed Link: https://wmhunt1.github.io/React-Portfolio/
 ## Installation
 To install clone the repository and use npm install.
 ## Usage
