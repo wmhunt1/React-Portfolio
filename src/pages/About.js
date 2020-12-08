@@ -17,7 +17,7 @@ function About() {
                     <Col size="md-9">
                         <h5>Biography</h5>
                         <p>
-                            Born in Florida before moving to NH at age 10. I originally went to college for Electrical Engineering before giving it up for business but ended up regretting it and am now becoming a coder.
+                            Born in Florida before moving to NH at age 10. I originally went to college for Electrical Engineering before giving it up for business but ended up regretting it and am now becoming a coder which I greatly enjoy.
             </p>
                     </Col>
                     <Row />
@@ -27,11 +27,23 @@ function About() {
                         </Col>
                     {/* </Row>
                     <Row> */}
-                        <Col size="md-6">
+                        <Col size="md-4">
                             <h5 class="card-title">Fun facts</h5>
                             <ul class="card-text">
                                 <li>Is an Eagle Scout</li>
                                 <li>Liked the Devil Rays as a Kid</li>
+                            </ul>
+                        </Col>
+                        <Col size="md-4">
+                            <h5 class="card-title">Technologies</h5>
+                            <ul class="card-text">
+                                <li>HTML, CSS, and Javascript</li>
+                                <li>APIs</li>
+                                <li>Node.js</li>
+                                <li>Express</li>
+                                <li>SQL and MongoDB</li>
+                                <li>React</li>
+                                <li>Socket.io</li>
                             </ul>
                         </Col>
                     </Row>
