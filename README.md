@@ -15,18 +15,18 @@ Deployed: https://mlanglois333.github.io/Quarantine-Accomplishments/
 2. Battleground States
 Repo: "https://github.com/tbourgoin630/Geo-Battle
 Deployed: https://lit-beyond-05882.herokuapp.com/
-3. Password Generator
+3. While You're There
+Repo: https://github.com/ambertrand/While-Youre-There
+Deployed: https://while-youre-there.herokuapp.com/
+4. Password Generator
 Repo: https://github.com/wmhunt1/Password-Generator
 Deployed: https://wmhunt1.github.io/Password-Generator/
-4. Weather or Not
+5. Weather or Not
 Repo: https://github.com/wmhunt1/Weather-Or-Not
 Deployed: https://wmhunt1.github.io/Weather-Or-Not/
-5. Take Note
+6. Take Note
 Repo: https://github.com/wmhunt1/Take-Note
 Deployed: https://notetakingappwarrenhunt.herokuapp.com/
-6. Employee Summary
-Repo: https://github.com/wmhunt1/Employee-Summary
-Deployed: https://drive.google.com/file/d/16WSlEdR7k7F-J6y_zHGnJSsvSSkMqREd/view
 ## License
 For viewing only.
 
