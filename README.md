@@ -1,6 +1,6 @@
 # React Portfolio
-## Description
 ![picture](./portfolio.png)
+## Description
 A portfolio of my work made using react.
 Repo: https://github.com/wmhunt1/React-Portfolio
 Deployed Link: https://wmhunt1.github.io/React-Portfolio/
